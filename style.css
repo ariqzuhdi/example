@@ -1,0 +1,53 @@
+html {
+    scroll-behavior: smooth;
+    display: block;
+}
+
+.image-twitter {
+    max-width: 35%;
+    max-height: 35%;
+    /* padding-top: 220px; */
+    margin-top: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    display: block;
+    border-radius: 25px;
+    position: inherit;
+}
+
+.main-page {
+    background-image: url("assets/svg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.footer-page{
+    margin-top: 50px;
+    text-align: center;
+}
+
+.text-page{
+    font-style: italic;
+}
+
+p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    font-size: large;
+}
+
+.contact-list {
+    display: inline;
+}
+
+.imagelist {
+    width: 50px;
+    word-spacing: 20px;
+    padding-right: 40px;
+}
+
+.list-page {
+    padding-top: 30px;
+}
